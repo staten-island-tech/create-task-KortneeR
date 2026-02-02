@@ -1,4 +1,15 @@
+const stuff
+
 function RoPaSc (){
+    const btn = document.querySelector(".button");
+    btn.forEach((button)) => {
+        btn.addEventListener('click', (event) => {
+            if ( btn.id === "Rock" && ){
+
+            }
+        }
+        )
+    }
 
 }
     //if a input is put into the terminal
