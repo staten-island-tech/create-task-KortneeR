@@ -14,8 +14,6 @@ document.addEventListener('DOMContentLoaded', () => {
         function getRandomInt(max) {
             return Math.floor(Math.random() * max);
         }
-        
-
         const btn = document.querySelectorAll(".button");
 
         btn.forEach((button) => {
